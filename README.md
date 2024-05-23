@@ -1,6 +1,6 @@
 <h1>Hello, I'm Alyssa! <br/><a href="https://github.com/alyssaditroia"></a> <a href="https://www.linkedin.com/in/alyssa-ditroia/">Computer Science Student at Arizona State University</a> </h1>
 
-<h2> 👨‍💻 Software Development Projects:</h2>
+<h2> 👨‍💻 Personal Projects:</h2>
 
 
 <h2> 📫 How to reach me:</h2>
