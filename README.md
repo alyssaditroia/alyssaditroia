@@ -1,7 +1,18 @@
-## Hi there 👋
+<h1>Hello, I'm Alyssa! <br/><a href="https://github.com/alyssaditroia"></a> <a href="https://www.linkedin.com/in/joshmadakor/">Computer Science Student at Arizona State University</a> </h1>
+
+<h2> 👨‍💻 Software Development Projects:</h2>
+
+
+<h2> 📫 How to reach me:</h2>
+<p>Email: alyssaditroia@gmail.com</p>
+<p>LinkedIn: <a href="https://www.linkedin.com/in/alyssa-ditroia/">alyssa-ditroia</a></p>
+
+[<img align="left" alt="alyssaditroia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/alyssa-ditroia/
 
 <!--
-**alyssaditroia/alyssaditroia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
