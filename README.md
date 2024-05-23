@@ -7,9 +7,14 @@
 <p>Email: alyssaditroia@gmail.com</p>
 <p>LinkedIn: <a href="https://www.linkedin.com/in/alyssa-ditroia/">alyssa-ditroia</a></p>
 
-[<img align="left" alt="alyssaditroia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<a href="https://www.linkedin.com/in/alyssa-ditroia/" target="_blank">
+  <img align="left" alt="alyssaditroia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
-[linkedin]: https://www.linkedin.com/in/alyssa-ditroia/
+<a href="mailto:alyssaditroia@gmail.com" target="_blank">
+  <img align="left" alt="alyssaditroia | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
+</a>
+
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
