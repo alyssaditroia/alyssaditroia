@@ -1,4 +1,4 @@
-<h1>Hello, I'm Alyssa! <br/><a href="https://github.com/alyssaditroia"></a> <a href="https://www.linkedin.com/in/joshmadakor/">Computer Science Student at Arizona State University</a> </h1>
+<h1>Hello, I'm Alyssa! <br/><a href="https://github.com/alyssaditroia"></a> <a href="https://www.linkedin.com/in/alyssa-ditroia/">Computer Science Student at Arizona State University</a> </h1>
 
 <h2> 👨‍💻 Software Development Projects:</h2>
 
