@@ -3,13 +3,13 @@
 <h2> 👨‍💻 Personal Projects:</h2>
 <ul>
     <li>
-        <a href="https://github.com/alyssaditroia/project1">Project 1: Syllabus Scanner</a> - A tool that extracts assignments and dates from multiple syllabi and adds them to a calendar.
+        <a href="[https://github.com/alyssaditroia/Game-of-Life]">Project 1: Conway's Game of Life</a> - A basic implementation of the classic cellular automaton in C.
     </li>
     <li>
         <a href="https://github.com/alyssaditroia/project2">Project 2: 20 Questions Game</a> - A game implemented in C that guesses a fruit or vegetable in 20 questions or less using a Binary Search Tree (BST).
     </li>
     <li>
-        <a href="https://github.com/alyssaditroia/project3">Project 3: Floating Point Recognizer FSM</a> - A finite state machine for recognizing floating-point numbers with three distinct states.
+        <a href="https://github.com/alyssaditroia/project3">Project 3: Merge Sort Algorithms Collection</a> -  A collection of Merge Sort algorithms implemented in various programming languages.
     </li>
     <!-- Add more projects as needed -->
 </ul>
