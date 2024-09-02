@@ -6,7 +6,7 @@
         <a href="https://github.com/alyssaditroia/Game-of-Life">Project 1: Conway's Game of Life</a> - A basic implementation of the classic cellular automaton in C.
     </li>
     <li>
-        <a href="https://github.com/alyssaditroia/project2">Project 2: 20 Questions Game</a> - A game implemented in C that guesses a fruit or vegetable in 20 questions or less using a Binary Search Tree (BST).
+        <a href="https://github.com/alyssaditroia/20-Questions">Project 2: 20 Questions Game</a> - A game implemented in C that guesses a fruit or vegetable in 20 questions or less using a Binary Search Tree (BST).
     </li>
     <li>
         <a href="https://github.com/alyssaditroia/Merge-Sort">Project 3: Merge Sort Algorithms Collection</a> -  A collection of Merge Sort algorithms implemented in various programming languages.
