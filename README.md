@@ -11,6 +11,7 @@
     <li>
         <a href="https://github.com/alyssaditroia/Merge-Sort">Merge Sort Algorithms Collection</a> -  A collection of Merge Sort algorithms implemented in various programming languages.
     </li>
+    <li>
     <a href="https://github.com/alyssaditroia/guessing-game-C">Square Root Guessing Game</a> - A simple number guessing game implemented in C. The game challenges players to guess a randomly generated number based on its square root.
 </li>
 </ul>
