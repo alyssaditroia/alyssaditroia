@@ -1,4 +1,4 @@
-<h1>Hello, I'm Alyssa! <br/><a href="https://github.com/alyssaditroia"></a> <a href="https://www.linkedin.com/in/alyssa-ditroia/">Computer Science Student at Arizona State University</a> </h1>
+<h1>Hello, I'm Alyssa! <br/><a href="https://github.com/alyssaditroia"></a> <a href="https://www.linkedin.com/in/alyssa-ditroia">Computer Science Student at Arizona State University</a> </h1>
 
 <h2> 👨‍💻 Personal Projects:</h2>
 <ul>
@@ -7,6 +7,9 @@
     </li>
     <li>
         <a href="https://github.com/alyssaditroia/20-Questions">20 Questions Game</a> - A game implemented in C that guesses a fruit or vegetable in 20 questions or less using a Binary Search Tree (BST).
+    </li>
+    <li>
+        <a href="https://github.com/alyssaditroia/pet_shop">Pet Shop Simulator</a> - A Class implemented in C++ that simulates a pet shop
     </li>
     <li>
         <a href="https://github.com/alyssaditroia/Merge-Sort">Merge Sort Algorithms Collection</a> -  A collection of Merge Sort algorithms implemented in various programming languages.
