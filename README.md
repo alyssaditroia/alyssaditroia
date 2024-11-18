@@ -16,7 +16,7 @@ Technologies: Java, JavaFX, H2 Database, BouncyCastle, and MVC Architecture.
     <li>
         <a href="https://github.com/alyssaditroia/RefiGenius">Mortgage Refinance and Appraisal Estimator App</a> -  RefiGenius is a cutting-edge mortgage refinancing and appraisal application designed to empower mortgage brokers and homeowners. The app provides accurate refinance calculations, property appraisal estimates, and savings insights, leveraging advanced geolocation services and remote APIs. With intuitive navigation and persistent data storage, RefiGenius ensures a seamless user experience while delivering actionable financial insights.
 
-Technologies: SwiftUI, Swift, SwiftData
+Technologies: SwiftUI, Swift, SwiftData, and MVVM Architecture.
     </li>
     <li>
         <a href="https://github.com/alyssaditroia/guessing_game_cpp">Square Root Guessing Game in C++</a> - A simple number guessing game implemented in C++. The game challenges players to guess a randomly generated number based on its square root.
