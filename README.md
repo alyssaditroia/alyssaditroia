@@ -2,13 +2,7 @@
 
 <h2> 👨‍💻 Projects:</h2>
 <ul>
-    <li>
-        <a href="https://github.com/alyssaditroia/Game-of-Life">Conway's Game of Life</a> - A basic implementation of the classic cellular automaton in C.
-    </li>
-    <li>
-        <a href="https://github.com/alyssaditroia/20-Questions">20 Questions Game</a> - A game implemented in C that guesses a fruit or vegetable in 20 questions or less using a Binary Search Tree (BST).
-    </li>
-    <li>
+<li>
         <a href="https://github.com/alyssaditroia/CSE360">ASU CSE360 Help System Platform</a> - An intuitive, role-based help system built for CSE 360 students, instructors, and admins. This project features secure login, robust article management, special group permissions, backup/restore functionalities, and a streamlined messaging center. Designed with a clean UI and scalable architecture, the system ensures user-friendly interactions while prioritizing data integrity and security.
 
 Technologies: Java, JavaFX, H2 Database, BouncyCastle, and MVC Architecture.
@@ -20,6 +14,13 @@ Technologies: SwiftUI, Swift, SwiftData, and MVVM Architecture.
     </li>
     <li>
         <a href="https://github.com/alyssaditroia/guessing_game_cpp">Square Root Guessing Game in C++</a> - A simple number guessing game implemented in C++. The game challenges players to guess a randomly generated number based on its square root.
+    </li>
+    <li>
+        <li>
+        <a href="https://github.com/alyssaditroia/Game-of-Life">Conway's Game of Life</a> - A basic implementation of the classic cellular automaton in C.
+    </li>
+    <li>
+        <a href="https://github.com/alyssaditroia/20-Questions">20 Questions Game</a> - A game implemented in C that guesses a fruit or vegetable in 20 questions or less using a Binary Search Tree (BST).
     </li>
     <li>
     <a href="https://github.com/alyssaditroia/guessing-game-C">Square Root Guessing Game</a> - A simple number guessing game implemented in C. The game challenges players to guess a randomly generated number based on its square root.
