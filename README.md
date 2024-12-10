@@ -12,10 +12,6 @@ Technologies: Java, JavaFX, H2 Database, BouncyCastle, and MVC Architecture.
 
 Technologies: SwiftUI, Swift, SwiftData, and MVVM Architecture.
     </li>
-    <li>
-        <a href="https://github.com/alyssaditroia/guessing_game_cpp">Square Root Guessing Game in C++</a> - A simple number guessing game implemented in C++. The game challenges players to guess a randomly generated number based on its square root.
-    </li>
-    <li>
         <li>
         <a href="https://github.com/alyssaditroia/Game-of-Life">Conway's Game of Life</a> - A basic implementation of the classic cellular automaton in C.
     </li>
