@@ -10,22 +10,20 @@
 <div style="margin-top: 10px;">
   <!-- Email -->
   <p>
-    <strong>Email:</strong> 
     <a href="mailto:alyssaditroia@gmail.com" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/-alyssaditroia@gmail.com-D00000?style=flat&logo=gmail&logoColor=white" alt="Gmail">
     </a>
   </p>
   <p>
-    <strong>Alternative Email:</strong> 
     <a href="mailto:aditroia@asu.edu" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/-aditroia@asu.edu-2A4494?style=flat&logo=gmail&logoColor=white" alt="Gmail">
     </a>
   </p>
   <!-- LinkedIn -->
   <p>
-    <strong>LinkedIn:</strong> 
+    LinkedIn:
     <a href="https://www.linkedin.com/in/alyssa-ditroia/" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/-alyssa--ditroia-FFBA08?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+      <img src="https://img.shields.io/badge/LinkedIn-alyssa--ditroia-FFBA08?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
   </p>
 </div>
