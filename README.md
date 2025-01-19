@@ -15,7 +15,6 @@
     <a href="mailto:aditroia@asu.edu" style="text-decoration: none; color: #EA4335;">
       aditroia@asu.edu
     </a>
-    [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alyssaditroia@gmail.com)](mailto:alyssaditroia@gmail.com)
   </p>
   <!-- LinkedIn -->
   <p>
@@ -23,9 +22,10 @@
     <a href="https://www.linkedin.com/in/alyssa-ditroia/" style="text-decoration: none; color: #0077B5;">
       alyssa-ditroia
     </a>
-    [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alyssa-ditroia/)
   </p>
 </div>
+[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alyssa-ditroia/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flatsquare&logo=Gmail&logoColor=white&link=mailto:alyssaditroia@gmail.com)](mailto:alyssaditroia@gmail.com)
 
 <h2> 💻 Programming Languages:</h2>
 
