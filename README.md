@@ -1,6 +1,42 @@
 <h2>Hello, I'm Alyssa DiTroia! <br/><a href="https://github.com/alyssaditroia"></a> </h2>
 <h3><a href="https://www.linkedin.com/in/alyssa-ditroia">Computer Science Student at Arizona State University</a> </h3>
 
+<h2> 📫 How to Reach Me:</h2>
+<div style="margin-top: 10px;">
+  <!-- Email -->
+  <p>
+    <strong>Email:</strong> 
+    <a href="mailto:alyssaditroia@gmail.com" style="text-decoration: none; color: #EA4335;">
+      alyssaditroia@gmail.com
+    </a>
+  </p>
+  <p>
+    <strong>Alternative Email:</strong> 
+    <a href="mailto:aditroia@asu.edu" style="text-decoration: none; color: #EA4335;">
+      aditroia@asu.edu
+    </a>
+  </p>
+
+  <!-- LinkedIn -->
+  <p>
+    <strong>LinkedIn:</strong> 
+    <a href="https://www.linkedin.com/in/alyssa-ditroia/" style="text-decoration: none; color: #0077B5;">
+      alyssa-ditroia
+    </a>
+  </p>
+</div>
+
+<!-- Social Media Icons -->
+<div style="display: flex; align-items: center; gap: 15px; margin-top: 20px;">
+  <a href="mailto:alyssaditroia@gmail.com" target="_blank" style="text-decoration: none;">
+    <img alt="Email" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" style="color: #EA4335;" />
+  </a>
+  <a href="https://www.linkedin.com/in/alyssa-ditroia/" target="_blank" style="text-decoration: none;">
+    <img alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" style="color: #0077B5;" />
+  </a>
+</div>
+
+
 <h2> 💻 Projects:</h2>
 <ul>
 <li>
@@ -35,18 +71,5 @@ Technologies: C, 2D arrays, and algorithm optimization.
 Technologies: C, Binary Search Tree (BST), and data structures.
 </li>
 </ul>
-
-<h2> 📫 How to reach me:</h2>
-<p>Email: alyssaditroia@gmail.com</p>
-<p>Alternative Email: aditroia@asu.edu</p>
-<p>LinkedIn: <a href="https://www.linkedin.com/in/alyssa-ditroia/">alyssa-ditroia</a></p>
-
-<a href="mailto:alyssaditroia@gmail.com" target="_blank">
-  <img align="left" alt="alyssaditroia | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
-</a>
-
-<a href="https://www.linkedin.com/in/alyssa-ditroia/" target="_blank">
-  <img align="left" alt="alyssaditroia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
 
 
