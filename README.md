@@ -1,40 +1,37 @@
-<h2>Hi, I'm Alyssa DiTroia! <br/><a href="https://github.com/alyssaditroia"></a> </h2>
-<h3><a href="https://www.linkedin.com/in/alyssa-ditroia">Computer Science Student at Arizona State University</a> </h3>
+<h2 align="center">Hi, I'm Alyssa DiTroia! 👋</h2>
+<h3 align="center">
+    <a href="https://github.com/alyssaditroia">✨ GitHub ✨</a> | 
+    <a href="https://www.linkedin.com/in/alyssa-ditroia/">💼 LinkedIn 💼</a>
+</h3>
 
-<h3> 📫 How to Reach Me:</h3>
+<h3 align="center"><a href="https://www.linkedin.com/in/alyssa-ditroia">📚 Computer Science Student at Arizona State University 📚</a></h3>
+
+---
+
+### 📫 How to Reach Me:
 <div style="margin-top: 10px;">
   <!-- Email -->
   <p>
-    <strong>Email:</strong> 
-    <a href="mailto:alyssaditroia@gmail.com" style="text-decoration: none; color: #EA4335;">
-      alyssaditroia@gmail.com
+    <strong>📧 Email:</strong> 
+    <a href="mailto:alyssaditroia@gmail.com" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/-alyssaditroia@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail">
     </a>
   </p>
   <p>
-    <strong>Alternative Email:</strong> 
-    <a href="mailto:aditroia@asu.edu" style="text-decoration: none; color: #EA4335;">
-      aditroia@asu.edu
+    <strong>📧 Alternative Email:</strong> 
+    <a href="mailto:aditroia@asu.edu" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/-aditroia@asu.edu-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" alt="Outlook">
     </a>
   </p>
   <!-- LinkedIn -->
   <p>
-    <strong>LinkedIn:</strong> 
-    <a href="https://www.linkedin.com/in/alyssa-ditroia/" style="text-decoration: none; color: #0077B5;">
-      alyssa-ditroia
+    <strong>🔗 LinkedIn:</strong> 
+    <a href="https://www.linkedin.com/in/alyssa-ditroia/" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/-alyssa--ditroia-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
   </p>
 </div>
 
-
-<h3> Programming Languages:</h3>
-
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 
 <h3> 💻 Projects:</h3>
 <ul>
