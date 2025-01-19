@@ -57,6 +57,12 @@ Technologies: Python, FastAPI, SQLite, scikit-learn, pandas, yfinance, Chart.js,
         <a href="https://github.com/alyssaditroia/CSE360">ASU Class Help System Platform</a> - An intuitive, role-based help system built for CSE 360 students, instructors, and admins. This project features secure login, robust article management, special group permissions, backup/restore functionalities, and a streamlined messaging center. Designed with a clean UI and scalable architecture, the system ensures user-friendly interactions while prioritizing data integrity and security.
 
 Technologies: Java, JavaFX, H2 Database, BouncyCastle, and MVC Architecture.
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-3776AB?style=for-the-badge&logo=java&logoColor=white)
+![H2 Database](https://img.shields.io/badge/H2%20Database-007396?style=for-the-badge&logo=h2&logoColor=white)
+![BouncyCastle](https://img.shields.io/badge/BouncyCastle-FF5733?style=for-the-badge&logoColor=white)
+![MVC Architecture](https://img.shields.io/badge/MVC%20Architecture-4CAF50?style=for-the-badge&logoColor=white)
+
 </li>
 <li>
         <a href="https://github.com/alyssaditroia/RefiGenius">Mortgage Refinance and Appraisal Estimator App</a> -  RefiGenius is a cutting-edge mortgage refinancing and appraisal application designed to empower mortgage brokers and homeowners. The app provides accurate refinance calculations, property appraisal estimates, and savings insights, leveraging advanced geolocation services and remote APIs. With intuitive navigation and persistent data storage, RefiGenius ensures a seamless user experience while delivering actionable financial insights.
