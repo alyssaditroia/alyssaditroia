@@ -26,7 +26,7 @@
 </div>
 
 
-<h2> 💻 Programming Languages:</h2>
+<h3> Programming Languages:</h3>
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
@@ -36,7 +36,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 
-<h2> 💻 Projects:</h2>
+<h3> 💻 Projects:</h3>
 <ul>
 <li>
         <a href="https://github.com/alyssaditroia/ML_Stock_Analysis">Stock Analysis and Prediction Platform</a> - A stock analysis and prediction platform leveraging machine learning to evaluate historical stock data and predict future trends. The platform includes  historical data visualization, real-time stock predictions, and a model evaluation dashboard displaying metrics such as RMSE, MSE, and MAE. Designed with a modern, user-friendly interface and scalable architecture, the system supports saving historical data to a database for improved model training and analysis.
