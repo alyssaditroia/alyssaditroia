@@ -59,9 +59,10 @@ Technologies: Python, FastAPI, SQLite, scikit-learn, pandas, yfinance, Chart.js,
 Technologies: Java, JavaFX, H2 Database, BouncyCastle, and MVC Architecture.
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-3776AB?style=for-the-badge&logo=java&logoColor=white)
-![H2 Database](https://img.shields.io/badge/H2%20Database-007396?style=for-the-badge&logo=h2&logoColor=white)
-![BouncyCastle](https://img.shields.io/badge/BouncyCastle-FF5733?style=for-the-badge&logoColor=white)
-![MVC Architecture](https://img.shields.io/badge/MVC%20Architecture-4CAF50?style=for-the-badge&logoColor=white)
+![H2 Database](https://img.shields.io/badge/H2%20Database-003B57?style=for-the-badge)
+![BouncyCastle](https://img.shields.io/badge/BouncyCastle-FF5733?style=for-the-badge)
+![MVC Architecture](https://img.shields.io/badge/MVC%20Architecture-4CAF50?style=for-the-badge)
+
 
 </li>
 <li>
