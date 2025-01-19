@@ -24,9 +24,7 @@
     </a>
   </p>
 </div>
-![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/alyssa-ditroia/)
 
-![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438style=flatsquare&logo=Gmail&logoColor=white&link=mailto:alyssaditroia@gmail.com)](mailto:alyssaditroia@gmail.com)
 
 <h2> 💻 Programming Languages:</h2>
 
