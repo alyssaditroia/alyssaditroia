@@ -16,7 +16,6 @@
       aditroia@asu.edu
     </a>
   </p>
-
   <!-- LinkedIn -->
   <p>
     <strong>LinkedIn:</strong> 
@@ -25,16 +24,16 @@
     </a>
   </p>
 </div>
-
 <!-- Social Media Icons -->
-<div style="display: flex; align-items: center; gap: 15px; margin-top: 20px;">
+<div style="display: flex; align-items: center; gap: 20px; margin-top: 20px;">
   <a href="mailto:alyssaditroia@gmail.com" target="_blank" style="text-decoration: none;">
-    <img alt="Email" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" style="color: #EA4335;" />
+    <img alt="Email" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/89/Google_Logo.svg" />
   </a>
   <a href="https://www.linkedin.com/in/alyssa-ditroia/" target="_blank" style="text-decoration: none;">
-    <img alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" style="color: #0077B5;" />
+    <img alt="LinkedIn" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />
   </a>
 </div>
+
 
 
 <h2> 💻 Projects:</h2>
