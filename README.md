@@ -14,7 +14,6 @@ Technologies: SwiftUI, Swift, SwiftData, and MVVM Architecture.
     <li>
     <a href="https://github.com/alyssaditroia/JPG_TO_ASCII">Converts .jpg Image to ASCII Art</a> - A image processing program in C++ that uses SVD Decomposition and converts images to ASCII Art. 
 </li>
-    </li>
         <li>
         <a href="https://github.com/alyssaditroia/Game-of-Life">Conway's Game of Life</a> - A basic implementation of the classic cellular automaton in C.
     </li>
