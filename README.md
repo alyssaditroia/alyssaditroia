@@ -1,12 +1,10 @@
 <h2 align="center">Hi, I'm Alyssa DiTroia! 👋</h2>
 <h3 align="center">
-    <a href="https://github.com/alyssaditroia">✨ GitHub ✨</a> | 
-    <a href="https://www.linkedin.com/in/alyssa-ditroia/">💼 LinkedIn 💼</a>
+    <a href="https://github.com/alyssaditroia">✨ GitHub ✨ </a> | 
+    <a href="https://www.linkedin.com/in/alyssa-ditroia/"> 💼 LinkedIn 💼</a>
 </h3>
 
 <h3 align="center"><a href="https://www.linkedin.com/in/alyssa-ditroia">📚 Computer Science Student at Arizona State University 📚</a></h3>
-
----
 
 ### 📫 How to Reach Me:
 <div style="margin-top: 10px;">
@@ -14,20 +12,20 @@
   <p>
     <strong>📧 Email:</strong> 
     <a href="mailto:alyssaditroia@gmail.com" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/-alyssaditroia@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail">
+      <img src="https://img.shields.io/badge/-alyssaditroia@gmail.com-D00000?style=flat&logo=gmail&logoColor=white" alt="Gmail">
     </a>
   </p>
   <p>
     <strong>📧 Alternative Email:</strong> 
     <a href="mailto:aditroia@asu.edu" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/-aditroia@asu.edu-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" alt="Outlook">
+      <img src="https://img.shields.io/badge/-aditroia@asu.edu-2A4494?style=flat&logo=gmail&logoColor=white" alt="Gmail">
     </a>
   </p>
   <!-- LinkedIn -->
   <p>
     <strong>🔗 LinkedIn:</strong> 
     <a href="https://www.linkedin.com/in/alyssa-ditroia/" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/-alyssa--ditroia-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+      <img src="https://img.shields.io/badge/-alyssa--ditroia-FFBA08?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
   </p>
 </div>
