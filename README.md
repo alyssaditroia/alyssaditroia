@@ -24,17 +24,13 @@
     </a>
   </p>
 </div>
-<!-- Social Media Icons -->
-<div style="display: flex; align-items: center; gap: 20px; margin-top: 20px;">
-  <a href="mailto:alyssaditroia@gmail.com" target="_blank" style="text-decoration: none;">
-    <img alt="Email" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svgg" />
-  </a>
-  <a href="https://www.linkedin.com/in/alyssa-ditroia/" target="_blank" style="text-decoration: none;">
-    <img alt="LinkedIn" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />
-  </a>
-</div>
 
+<h2> 💻 Programming Languages:</h2>
 
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&logoColor=white&color=6aa6f8)
+![C](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=6aa6f8)
+![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=6aa6f8)
 
 <h2> 💻 Projects:</h2>
 <ul>
