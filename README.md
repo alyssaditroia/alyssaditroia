@@ -1,9 +1,14 @@
 <h1>Hello, I'm Alyssa! <br/><a href="https://github.com/alyssaditroia"></a> <a href="https://www.linkedin.com/in/alyssa-ditroia">Computer Science Student at Arizona State University</a> </h1>
 
-<h2> 👨‍💻 Projects:</h2>
+<h2> 💻 Projects:</h2>
 <ul>
 <li>
-        <a href="https://github.com/alyssaditroia/CSE360">ASU CSE360 Help System Platform</a> - An intuitive, role-based help system built for CSE 360 students, instructors, and admins. This project features secure login, robust article management, special group permissions, backup/restore functionalities, and a streamlined messaging center. Designed with a clean UI and scalable architecture, the system ensures user-friendly interactions while prioritizing data integrity and security.
+        <a href="https://github.com/alyssaditroia/ML_Stock_Analysis">Stock Analysis and Prediction Platform</a> - A stock analysis and prediction platform leveraging machine learning to evaluate historical stock data and predict future trends. The platform includes  historical data visualization, real-time stock predictions, and a model evaluation dashboard displaying metrics such as RMSE, MSE, and MAE. Designed with a modern, user-friendly interface and scalable architecture, the system supports saving historical data to a database for improved model training and analysis.
+
+Technologies: Python, FastAPI, SQLite, scikit-learn, pandas, yfinance, Chart.js, Next.js, and TailwindCSS.
+</li>
+<li>
+        <a href="https://github.com/alyssaditroia/CSE360">ASU Class Help System Platform</a> - An intuitive, role-based help system built for CSE 360 students, instructors, and admins. This project features secure login, robust article management, special group permissions, backup/restore functionalities, and a streamlined messaging center. Designed with a clean UI and scalable architecture, the system ensures user-friendly interactions while prioritizing data integrity and security.
 
 Technologies: Java, JavaFX, H2 Database, BouncyCastle, and MVC Architecture.
     </li>
