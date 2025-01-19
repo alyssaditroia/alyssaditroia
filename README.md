@@ -1,5 +1,5 @@
-<h1>Hello, I'm Alyssa! <br/><a href="https://github.com/alyssaditroia"></a> </h1>
-<h2><a href="https://www.linkedin.com/in/alyssa-ditroia">Computer Science Student at Arizona State University</a> </h2>
+<h2>Hello, I'm Alyssa Ditroia! <br/><a href="https://github.com/alyssaditroia"></a> </h2>
+<h3><a href="https://www.linkedin.com/in/alyssa-ditroia">Computer Science Student at Arizona State University</a> </h3>
 
 <h2> 💻 Projects:</h2>
 <ul>
