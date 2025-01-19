@@ -1,7 +1,7 @@
-<h2>Hello, I'm Alyssa DiTroia! <br/><a href="https://github.com/alyssaditroia"></a> </h2>
+<h2>Hi, I'm Alyssa DiTroia! <br/><a href="https://github.com/alyssaditroia"></a> </h2>
 <h3><a href="https://www.linkedin.com/in/alyssa-ditroia">Computer Science Student at Arizona State University</a> </h3>
 
-<h2> 📫 How to Reach Me:</h2>
+<h3> 📫 How to Reach Me:</h3>
 <div style="margin-top: 10px;">
   <!-- Email -->
   <p>
@@ -15,6 +15,7 @@
     <a href="mailto:aditroia@asu.edu" style="text-decoration: none; color: #EA4335;">
       aditroia@asu.edu
     </a>
+    [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alyssaditroia@gmail.com)](mailto:alyssaditroia@gmail.com)
   </p>
   <!-- LinkedIn -->
   <p>
@@ -22,15 +23,19 @@
     <a href="https://www.linkedin.com/in/alyssa-ditroia/" style="text-decoration: none; color: #0077B5;">
       alyssa-ditroia
     </a>
+    [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alyssa-ditroia/)
   </p>
 </div>
 
 <h2> 💻 Programming Languages:</h2>
 
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=6aa6f8)
-![C](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=6aa6f8)
-![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=6aa6f8)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 
 <h2> 💻 Projects:</h2>
 <ul>
