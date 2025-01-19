@@ -19,7 +19,7 @@ Technologies: SwiftUI, Swift, SwiftData, and MVVM Architecture.
         <a href="https://github.com/alyssaditroia/20-Questions">20 Questions Game</a> - A game implemented in C that guesses a fruit or vegetable in 20 questions or less using a Binary Search Tree (BST).
     </li>
     <li>
-    <a href="https://github.com/alyssaditroia/guessing-game-C">Square Root Guessing Game</a> - A simple number guessing game implemented in C. The game challenges players to guess a randomly generated number based on its square root.
+    <a href="https://github.com/alyssaditroia/JPG_TO_ASCII">Converts .jpg Image to ASCII Art</a> - A image processing program in C++ that uses SVD Decomposition and converts images to ASCII Art. 
 </li>
 </ul>
 
