@@ -21,9 +21,8 @@
   </p>
   <!-- LinkedIn -->
   <p>
-    LinkedIn:
     <a href="https://www.linkedin.com/in/alyssa-ditroia/" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/LinkedIn-alyssa--ditroia-FFBA08?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+      <img src="https://img.shields.io/badge/LinkedIn-alyssa--ditroia-FFBA08?style=flat&logo=linkedin&logoColor=white&labelColor=FFBA08" alt="LinkedIn">
     </a>
   </p>
 </div>
