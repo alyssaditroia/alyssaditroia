@@ -71,7 +71,7 @@ Technologies:
 Technologies:
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0884FF?style=for-the-badge&logo=swift&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![SwiftData](https://img.shields.io/badge/SwiftData-FFD700?style=for-the-badge&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MVVM Architecture](https://img.shields.io/badge/MVVM%20Architecture-4CAF50?style=for-the-badge)
 
 </li> 
