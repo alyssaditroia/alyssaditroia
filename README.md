@@ -42,6 +42,16 @@
         <a href="https://github.com/alyssaditroia/ML_Stock_Analysis">Stock Analysis and Prediction Platform</a> - A stock analysis and prediction platform leveraging machine learning to evaluate historical stock data and predict future trends. The platform includes  historical data visualization, real-time stock predictions, and a model evaluation dashboard displaying metrics such as RMSE, MSE, and MAE. Designed with a modern, user-friendly interface and scalable architecture, the system supports saving historical data to a database for improved model training and analysis.
 
 Technologies: Python, FastAPI, SQLite, scikit-learn, pandas, yfinance, Chart.js, Next.js, and TailwindCSS.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![yfinance](https://img.shields.io/badge/yfinance-0077B5?style=for-the-badge&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
 </li>
 <li>
         <a href="https://github.com/alyssaditroia/CSE360">ASU Class Help System Platform</a> - An intuitive, role-based help system built for CSE 360 students, instructors, and admins. This project features secure login, robust article management, special group permissions, backup/restore functionalities, and a streamlined messaging center. Designed with a clean UI and scalable architecture, the system ensures user-friendly interactions while prioritizing data integrity and security.
