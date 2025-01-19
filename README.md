@@ -27,7 +27,7 @@
 <!-- Social Media Icons -->
 <div style="display: flex; align-items: center; gap: 20px; margin-top: 20px;">
   <a href="mailto:alyssaditroia@gmail.com" target="_blank" style="text-decoration: none;">
-    <img alt="Email" width="30px" height="30px" src="https://commons.wikimedia.org/wiki/File:Gmail_icon_(2020).svg" />
+    <img alt="Email" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svgg" />
   </a>
   <a href="https://www.linkedin.com/in/alyssa-ditroia/" target="_blank" style="text-decoration: none;">
     <img alt="LinkedIn" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />
