@@ -58,6 +58,11 @@ Technologies:
 
 </li>
 <li>
+    <a href="https://github.com/alyssaditroia/WebServer">My Personal Portfolio</a> - My personal portoflio web applicaion. 
+
+    Technologies: 
+</li>
+<li>
         <a href="https://github.com/alyssaditroia/RefiGenius">Mortgage Refinance and Appraisal Estimator App</a> -  RefiGenius is a cutting-edge mortgage refinancing and appraisal application designed to empower mortgage brokers and homeowners. The app provides accurate refinance calculations, property appraisal estimates, and savings insights, leveraging advanced geolocation services and remote APIs. With intuitive navigation and persistent data storage, RefiGenius ensures a seamless user experience while delivering actionable financial insights.
 
 Technologies:
