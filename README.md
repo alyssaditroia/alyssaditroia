@@ -64,7 +64,7 @@ Technologies:
 ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white)
 ![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-DE3163?style=flat&logo=react&logoColor=black)
-![React Three Drei](https://img.shields.io/badge/React_Three_Drei-61DAFB?style=flat&logo=react&logoColor=black)
+![React Three Drei](https://img.shields.io/badge/React_Three_Drei-FD4848?style=flat&logo=react&logoColor=black)
 ![EmailJS](https://img.shields.io/badge/Email_JS-5C3EE8?style=flat&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-9FE2BF?style=flat&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
