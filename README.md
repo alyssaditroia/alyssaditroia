@@ -61,13 +61,13 @@ Technologies:
     <a href="https://github.com/alyssaditroia/WebServer">My Personal Portfolio</a> - My personal portoflio web applicaion. 
 
 Technologies: 
-![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Three Drei](https://img.shields.io/badge/React_Three_Drei-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![EmailJS](https://img.shields.io/badge/Email_JS-5C3EE8?style=for-the-badge&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white)
+![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-61DAFB?style=flat&logo=react&logoColor=black)
+![React Three Drei](https://img.shields.io/badge/React_Three_Drei-61DAFB?style=flat&logo=react&logoColor=black)
+![EmailJS](https://img.shields.io/badge/Email_JS-5C3EE8?style=flat&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
     
 </li>
 <li>
