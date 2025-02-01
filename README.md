@@ -1,8 +1,4 @@
 <h2 align="center">Hi, I'm Alyssa DiTroia! 👋</h2>
-<h3 align="center">
-    <a href="https://github.com/alyssaditroia">✨ GitHub ✨ </a> | 
-    <a href="https://www.linkedin.com/in/alyssa-ditroia/"> 💼 LinkedIn 💼</a>
-</h3>
 
 <h3 align="center"><a href="https://www.linkedin.com/in/alyssa-ditroia">📚 Computer Science Student at Arizona State University 📚</a></h3>
 
