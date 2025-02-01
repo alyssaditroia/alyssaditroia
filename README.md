@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm Alyssa DiTroia! 👋</h2>
 
 <h3 align="center"><a href="https://www.linkedin.com/in/alyssa-ditroia">📚 Computer Science Student at Arizona State University 📚</a></h3>
-
+ 
 ### 📫 How to Reach Me:
 <div style="margin-top: 10px;">
   <!-- Email -->
