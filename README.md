@@ -1,8 +1,8 @@
 <h2 align="center">Hi, I'm Alyssa DiTroia! 👋</h2>
 
 <h3 align="center"><a href="https://www.linkedin.com/in/alyssa-ditroia"> Computer Science Student at Arizona State University </a></h3>
-<h4 align="center"> Cybersecurity research aide for SEFCOM at Arizona State University</h4>
-<h4 align="center"> SWE Intern at Nationwide</h4>
+<h4 align="center"> Cybersecurity Research Aide for SEFCOM at Arizona State University</h4>
+<h4 align="center"> Software Engineering Intern at Nationwide</h4>
  
 ### 📫 How to Reach Me:
 <div style="margin-top: 10px;">
