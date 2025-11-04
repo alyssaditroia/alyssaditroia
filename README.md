@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Alyssa DiTroia! 👋</h2>
+<h2 align="center">Hi, I'm Alyssa DiTroia!</h2>
 
 <h3 align="center"><a href="https://www.linkedin.com/in/alyssa-ditroia"> Computer Science Student at Arizona State University </a></h3>
 <h4 align="center"> Cybersecurity Research Aide for SEFCOM at Arizona State University</h4>
@@ -85,23 +85,6 @@ Technologies:
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![SVD](https://img.shields.io/badge/SVD-Mathematics-4CAF50?style=flat)
 
-</li>
-<li>
-        <a href="https://github.com/alyssaditroia/Game-of-Life">Conway's Game of Life</a> - An implementation of the classic cellular automaton. The program simulates the evolution of patterns over time based on simple rules of life and death. Designed for efficient computation and a clean command-line interface.
-
-Technologies:
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![2D Arrays](https://img.shields.io/badge/2D%20Arrays-4CAF50?style=flat)
-![Optimization](https://img.shields.io/badge/Optimization-E91E63?style=flat)
-</li>
-
-<li>
-        <a href="https://github.com/alyssaditroia/20-Questions">20 Questions Game</a> - A command-line game that guesses a fruit or vegetable in 20 questions or less using a Binary Search Tree (BST).
-        
-Technologies:
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Binary Search Tree (BST)](https://img.shields.io/badge/BST-6A1B9A?style=flat)
-![Data Structures](https://img.shields.io/badge/Data%20Structures-4CAF50?style=flat)
 </li>
 </ul>
 
