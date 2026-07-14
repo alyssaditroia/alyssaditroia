@@ -3,28 +3,6 @@
 <h3 align="center"><a href="https://www.linkedin.com/in/alyssa-ditroia"> Computer Science Student at Arizona State University </a></h3>
 <h4 align="center"> Cybersecurity Research Aide for SEFCOM at Arizona State University</h4>
 <h4 align="center"> Software Engineering Intern at Nationwide</h4>
- 
-### 📫 How to Reach Me:
-<div style="margin-top: 10px;">
-  <!-- Email -->
-  <p>
-    <a href="mailto:alyssaditroia@gmail.com" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/-alyssaditroia@gmail.com-D00000?style=flat&logo=gmail&logoColor=white" alt="Gmail">
-    </a>
-  </p>
-  <p>
-    <a href="mailto:aditroia@asu.edu" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/-aditroia@asu.edu-2A4494?style=flat&logo=gmail&logoColor=white" alt="Gmail">
-    </a>
-  </p>
-  <!-- LinkedIn -->
-  <p>
-    <a href="https://www.linkedin.com/in/alyssa-ditroia/" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/LinkedIn-alyssa--ditroia-FFBA08?style=flat&logo=linkedin&logoColor=white&labelColor=FFBA08" alt="LinkedIn">
-    </a>
-  </p>
-</div>
-
 
 <h3> 💻 Projects:</h3>
 <ul>
